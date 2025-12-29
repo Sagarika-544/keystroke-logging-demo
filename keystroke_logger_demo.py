@@ -1,3 +1,8 @@
+"""
+Ethical Keystroke Logging Demo
+Developed for educational and cybersecurity internship purposes.
+"""
+
 import tkinter as tk
 from datetime import datetime
 
@@ -95,3 +100,4 @@ status_label = tk.Label(
 status_label.pack(pady=15)
 
 root.mainloop()
+
